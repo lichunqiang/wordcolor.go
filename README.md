@@ -23,6 +23,11 @@ func main () {
 }
 ```
 
+## Related
+
+* [word-color](https://github.com/afc163/word-color) - javascript version, which is the original fork
+* [wordcolor.php](https://github.com/lichunqiang/wordcolor.php) - PHP version
+
 ## License
 
 MIT
