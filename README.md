@@ -19,7 +19,7 @@ $ go get github.com/lichunqiang/wordcolor.go
 import "github.com/lichunqiang/wordcolor.go"
 
 func main () {
-    println(WordColor("Hello world")) //rgb(255, 56, 13)
+    println(wordcolor.WordColor("Hello world")) //rgb(255, 56, 13)
 }
 ```
 
